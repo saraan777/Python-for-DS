@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## GitHub Pages for PfDS
 
 You can use the [editor on GitHub](https://github.com/saraan777/Python-for-DS/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
